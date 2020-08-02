@@ -1,6 +1,11 @@
 # fow-game
 Free Open World Game
 
+
+## User LF instead CRLF
+
+https://www.cylindric.net/git/force-lf
+
 <!--
 Good Readme sample
 https://raw.githubusercontent.com/GDQuest/godot-3d-mannequin/master/README.md
