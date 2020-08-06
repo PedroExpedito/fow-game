@@ -3,11 +3,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F8664768-316B-4131-8D79-412DDBDBB46B}</ProjectGuid>
+    <ProjectGuid>{F2F6E013-FFF1-4464-B29B-8FB18379A2B5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <OutputPath>.mono\temp\bin\$(Configuration)</OutputPath>
-    <RootNamespace>FowGameClient</RootNamespace>
-    <AssemblyName>Fow Game Client</AssemblyName>
+    <RootNamespace>FowGameServer</RootNamespace>
+    <AssemblyName>Fow Game Server</AssemblyName>
     <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
     <GodotProjectGeneratorVersion>1.0.0.0</GodotProjectGeneratorVersion>
     <BaseIntermediateOutputPath>.mono\temp\obj</BaseIntermediateOutputPath>
