@@ -10,14 +10,8 @@ namespace FowGameClient
     {
         private PlayerConnection _playerConnection;
 
-        // Declare member variables here. Examples:
-        // private int a = 2;
-        // private string b = "text";
-
-        // Called when the node enters the scene tree for the first time.
         public override void _Ready()
         {
-            //GD.Print(new FowGameLib.FowGameLib1().HelloWorld());
         }
 
         private int _packetCount;

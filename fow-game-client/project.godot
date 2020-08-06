@@ -19,6 +19,10 @@ config/name="Fow Game Client"
 run/main_scene="res://Game.tscn"
 config/icon="res://icon.png"
 
+[display]
+
+window/vsync/use_vsync=false
+
 [input]
 
 move_forward={
